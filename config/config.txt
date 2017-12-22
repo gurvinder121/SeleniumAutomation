@@ -1,0 +1,5 @@
+#configuration
+browser=firefox
+url=https://gmail.com
+geckodriverpath=./Exe/geckodriver.exe
+chromedriverpath=./Exe/chromedriver.exe
